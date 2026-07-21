@@ -1,0 +1,6 @@
+{
+  "name": "耳鸣与听力测试系统",
+  "description": "一个用于自助测试耳鸣和听力损失程度（250Hz-8000Hz）的专业评估软件。提供符合世界卫生组织（WHO）最新标准的听力损失等级评估、自适应听力图（Audiogram）绘制、耳鸣频率/响度拟合匹配、国际标准耳鸣残疾问卷（THI）评估，并结合 Gemini AI 提供科学的耳鸣康复与听力保护建议，支持生成可直接打印的医学化报告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
